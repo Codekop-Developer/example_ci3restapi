@@ -1,0 +1,11 @@
+body {
+    background:#d5e6ff;
+}
+
+.footer{
+    width:100%;
+    background-color: #0c6ab6;
+    color:#fff;
+    bottom: 0;
+    padding-bottom: 1px;
+}
