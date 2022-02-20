@@ -20,6 +20,7 @@ class Home extends CI_Controller {
 
     public function index()
     {
+        // index
         $category = url_get_api(base_url('api/category/index'));
 
         $this->data = [
